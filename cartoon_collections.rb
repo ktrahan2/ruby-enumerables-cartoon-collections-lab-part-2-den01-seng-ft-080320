@@ -1,5 +1,3 @@
-planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
-
 def square_array(array)
   array.map do |element|
     element * element
